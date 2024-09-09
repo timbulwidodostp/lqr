@@ -1,6 +1,8 @@
 # lqr
 Robust Linear Quantile Regression Use lqr With (In) R Software
 
+https://www.youtube.com/watch?v=AtV1X1_NN8k
+
 Olah Data Semarang
 
 WA : +6285227746673 (085227746673)
